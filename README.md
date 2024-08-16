@@ -22,7 +22,7 @@ This is a Telegram bot built using JavaScript that interacts with users and pred
 1. **Clone the Repository**:
    
     ```
-    git clone https://github.com/Zenith-Rish4bh/Emotion-Detector-Telegram-Bot.git
+    git clone https://github.com/doy1354/Emotion-Detector-Telegram-Bot.git
     cd telegram-emotion-bot
     ```
 
